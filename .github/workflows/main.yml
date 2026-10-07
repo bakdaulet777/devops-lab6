@@ -5,7 +5,7 @@ on:
 
 jobs:
  hello:
-      runs-on: ubuntu-latest
-      steps:
-         - name: Hello
-           run: echo"Hello World Bakdaulet"
+   runs-on: ubuntu-latest
+   steps:
+      - name: Hello
+        run: echo"Hello World Bakdaulet"
